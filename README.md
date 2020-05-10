@@ -1,8 +1,6 @@
 # Pocket export list
 
-This task export Pocket list to files grouped by tag.
-
-It requieres an access token. You can get it using fxneumann's [OneClickPocket](http://reader.fxneumann.de/plugins/oneclickpocket/auth.php).
+This task export Pocket list to files grouped by tag using Pocket API. It requieres an access token. You can get it using fxneumann's [OneClickPocket](http://reader.fxneumann.de/plugins/oneclickpocket/auth.php).
 
 ## Arguments
 
